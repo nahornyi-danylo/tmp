@@ -1,0 +1,22 @@
+C:/altera/13.1/MS/lab5/stimul.v {1 {vlog -work work C:/altera/13.1/MS/lab5/stimul.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module stimul
+
+Top level modules:
+	stimul
+
+} {} {}} C:/altera/13.1/MS/lab5/demultiplexor.v {1 {vlog -work work C:/altera/13.1/MS/lab5/demultiplexor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module demultiplexor
+
+Top level modules:
+	demultiplexor
+
+} {} {}} C:/altera/13.1/MS/lab5/top.v {1 {vlog -work work C:/altera/13.1/MS/lab5/top.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}}

@@ -1,0 +1,3 @@
+force EN 2#1 0ns 2#0 200ns;
+force addr 2#101 0ns;
+force S 2#1 0ns;

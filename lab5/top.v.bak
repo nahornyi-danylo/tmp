@@ -1,0 +1,20 @@
+module top;
+  wire EN, S;
+  wire [2:0] addr;
+  wire [7:0] out;
+  
+  reg clk;
+  
+  demultiplexor Udmx(.EN(EN), .S(S), .addr(addr), .out(out));
+  stimul Ust(.EN(EN), .addr(addr), .S(S), .clk(clk));
+  initial begin
+    clk = 0;
+    forever #5 clk = ~clk;
+  end
+    
+  initial begin
+    $display("Time|EN|addr|S|out");
+    $monitor("%8t|%b|%b|%b|%b", $time, EN, addr, S, out);
+  end
+
+endmodule
