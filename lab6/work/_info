@@ -1,0 +1,104 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1
+vfiveBitFullAdder
+Z1 !s100 D9[oLVc1>`TTa2INna4830
+Z2 IQm<9RiDzb9fHL0`aI;5OH3
+Z3 VI6?9eN5m]fP>WCHZ:N4[P1
+Z4 dC:\altera\13.1\MS\lab6
+Z5 w1747584579
+Z6 8C:/altera/13.1/MS/lab6/fiveBitFullAdder.v
+Z7 FC:/altera/13.1/MS/lab6/fiveBitFullAdder.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MS/lab6/fiveBitFullAdder.v|
+Z10 o-work work -O0
+Z11 nfive@bit@full@adder
+Z12 !s108 1747585360.683000
+Z13 !s107 C:/altera/13.1/MS/lab6/fiveBitFullAdder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vfiveBitFullAdderReference
+Z14 !s100 M8_mMOEgVFA4KJO5XIJSY2
+Z15 I5QM9]b>fKa9OkVfhZ<EaT0
+Z16 V2@<AHP5SZ17SUOjg[nna@3
+R4
+Z17 w1747581421
+Z18 8C:/altera/13.1/MS/lab6/fiveBitFullAdderReference.v
+Z19 FC:/altera/13.1/MS/lab6/fiveBitFullAdderReference.v
+L0 1
+R8
+r1
+31
+Z20 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MS/lab6/fiveBitFullAdderReference.v|
+R10
+Z21 nfive@bit@full@adder@reference
+Z22 !s108 1747585360.729000
+Z23 !s107 C:/altera/13.1/MS/lab6/fiveBitFullAdderReference.v|
+!i10b 1
+!s85 0
+!s101 -O0
+voneBitFullAdder
+Z24 !s100 FE=60ecSGK^c6U`0f?:7a3
+Z25 IkcPd8@3ClWSb417Am;eS51
+Z26 ViJ]QFZK>G825?b9e5?b`b2
+R4
+Z27 w1747580413
+Z28 8C:\altera\13.1\MS\lab6\oneBitFullAdder.v
+Z29 FC:\altera\13.1\MS\lab6\oneBitFullAdder.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|C:\altera\13.1\MS\lab6\oneBitFullAdder.v|
+R10
+Z31 none@bit@full@adder
+Z32 !s108 1747585360.636000
+Z33 !s107 C:\altera\13.1\MS\lab6\oneBitFullAdder.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vStimul
+Z34 IS?DMA5DC2diMJcXONnhLd0
+Z35 VkQm0BeaER`:JFO8o4[b103
+R4
+Z36 w1747585346
+Z37 8C:/altera/13.1/MS/lab6/Stimul.v
+Z38 FC:/altera/13.1/MS/lab6/Stimul.v
+L0 1
+R8
+r1
+31
+Z39 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MS/lab6/Stimul.v|
+R10
+Z40 n@stimul
+!i10b 1
+Z41 !s100 dGjz]1Nli=E6ml6?TJFFa0
+!s85 0
+Z42 !s108 1747585360.776000
+Z43 !s107 C:/altera/13.1/MS/lab6/Stimul.v|
+!s101 -O0
+vtop
+!i10b 1
+Z44 !s100 8DgYWYg;E_`E>6a0Onze90
+Z45 I?C=`O42k2USb`@1Ya[c8c0
+Z46 Ve:gFW1CKLAXc^T:7k2HoD1
+R4
+Z47 w1747585159
+Z48 8C:/altera/13.1/MS/lab6/top.v
+Z49 FC:/altera/13.1/MS/lab6/top.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1747585360.839000
+!s107 C:/altera/13.1/MS/lab6/top.v|
+Z50 !s90 -reportprogress|300|-work|work|C:/altera/13.1/MS/lab6/top.v|
+!s101 -O0
+R10
